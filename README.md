@@ -1,0 +1,2 @@
+# puretable
+responsive,
